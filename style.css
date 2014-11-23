@@ -1,0 +1,47 @@
+
+
+.title {
+    color: #FFFFFF;
+    background-color: #33BEBE;
+    max-width: 1106px;
+    min-width: 600px;
+    padding-top: 25px;
+    font-weight: lighter;
+    font-size: 300%;
+}
+
+.app {
+    display: -webkit-flex;
+    display: flex;
+    color: #7C8B88;
+}
+
+.description {
+  max-width: 705px;
+  min-width: 600px;
+  font-size: 175%;
+  margin-left: 20px;
+}
+
+.image {
+  width: 381px;
+  min-width: 381px;
+}
+
+* {
+   //outline: 1px solid red !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: Calibri;
+    vertical-align: center;
+    
+}
+
+/*.description {
+  color: red;
+*/}
